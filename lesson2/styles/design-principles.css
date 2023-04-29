@@ -14,7 +14,7 @@ header, main, footer {
 }
 
 header nav {
-   background-color: #1f2041;   
+   background-color: #923587;   
    color: #ffffff;
    border-radius: 10px;
    padding: 0.75em;
@@ -22,7 +22,7 @@ header nav {
    text-align: right;
 }
 footer p {
-   background-color: #1f2041;   
+   background-color: #923587;   
    color: #ffffff;
    border-radius: 10px;
    padding: 0.75em;
@@ -35,7 +35,7 @@ section {
 }
 
 header img {    
-   box-shadow: 0 0 10px #1f2041;
+   box-shadow: 0 0 10px #923587;
    border-radius: 10px;
    width: 20%;
 }
@@ -74,7 +74,7 @@ footer a {
  }
  
  .grid-item {
-    background: #1f2041;
+    background: #923587;
     margin: 10px;
     text-align: center;
     color: #ffc857;
@@ -100,7 +100,7 @@ footer a {
    font-size: 1em;
    background-color: #ffc857;
    padding: 10px;
-   color: #1f2041
+   color: #923587;
  }
 
  .header-3 {
@@ -117,7 +117,7 @@ footer a {
 
  .web-link a {
    background-color: #ffc857; 
-   color: #1f2041; 
+   color: #923587; 
    padding: 10px; 
    text-align: center; 
    display: inline-block;
