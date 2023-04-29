@@ -14,7 +14,7 @@ header, main, footer {
 }
 
 header nav {
-    background-color: #1f2041;   
+    background-color: #923587;   
     color: #ffffff;
     border-radius: 10px;
     padding: 0.75em;
@@ -22,7 +22,7 @@ header nav {
     text-align: right;
 }
 footer p {
-    background-color: #1f2041;   
+    background-color: #923587;   
     color: #ffffff;
     border-radius: 10px;
     padding: 0.75em;
@@ -35,7 +35,7 @@ section {
 }
 
 header img {    
-    box-shadow: 0 0 10px #1f2041;
+    box-shadow: 0 0 10px #923587;
     border-radius: 10px;
     width: 20%;
 }
@@ -61,5 +61,5 @@ footer a {
 }
 
 #lastUpdated {
-    color: #ffc857;
+    color: #ffc857;;
 }
